@@ -1,0 +1,8 @@
+# ninja log v5
+19	163	6960348856242901	CMakeFiles/untitled3.dir/src/util/array.c.obj	1cfe91f50bc6407f
+3	202	6960348856644410	CMakeFiles/untitled3.dir/src/main.c.obj	d4bf14b092dc054c
+21	145	6960431675289836	CMakeFiles/untitled3.dir/src/model/state.c.obj	cb09d2c3d1e14a3d
+15	207	6957627557368461	CMakeFiles/untitled3.dir/src/util/menu_manager.c.obj	37035f943ce28336
+13	256	6960431676376536	CMakeFiles/untitled3.dir/src/views/input.c.obj	58ff119e97b87452
+257	470	6960431678467214	untitled3.exe	cd743cefccbf55c7
+5	191	6960431675731103	CMakeFiles/untitled3.dir/src/views/main_menus.c.obj	f05842afa6889770
